@@ -14,8 +14,8 @@ categories: Description Change
 # Enter your name below
 author: JingzhiZhang(Oscar)
 images: 
+- (https://drive.google.com/file/d/16c9JQ5_ukKkWvH0PMcaLOxMl04gBrVra/view)
 - (https://drive.google.com/file/d/1GH00m5bm0e9Toh7O9RwlN8Qg6hg97Yjd/view)
-- 
 ---
 
 For my contribution, I fixed a description bug 
@@ -24,8 +24,10 @@ For my contribution, I fixed a description bug
 I pick this because I like using blender, the open-source software let me get familiar with it. So I think I can make contribution on this project. When I see the description problem about using blender, I think I would know how to fix it.
 
 ## The Issue
+![PR1](https://drive.google.com/thumbnail?id=16c9JQ5_ukKkWvH0PMcaLOxMl04gBrVra)
+(https://drive.google.com/file/d/16c9JQ5_ukKkWvH0PMcaLOxMl04gBrVra/view)
 
-![PR1](https://drive.google.com/thumbnail?id=1GH00m5bm0e9Toh7O9RwlN8Qg6hg97Yjd)
+"There is no description of the option after the colon." in the Blender group about Luma Waveform.
 
 ## My Experience
 I found a request in blender showed "There is no description of the option after the colon." I found this page and change the information of description of it.
@@ -33,3 +35,4 @@ I found a request in blender showed "There is no description of the option after
 ## Evaluation of Effort
 
 ![PR2](https://drive.google.com/thumbnail?id=1GH00m5bm0e9Toh7O9RwlN8Qg6hg97Yjd)
+(https://drive.google.com/file/d/1GH00m5bm0e9Toh7O9RwlN8Qg6hg97Yjd/view)
