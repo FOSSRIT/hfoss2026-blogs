@@ -21,9 +21,9 @@ For my Second contribution to the open source community, I decided to continue h
 
 Additionally, I decided to try and contribute to the [Simpler Grants Site](https://github.com/HHS/simpler-grants-gov/issues/9861) incentive, as I believe their documentation to be easily accessible.
 
-## Why [Campuspulse.access](https://access.campuspulse.app/catalog)/[simplergrants.gov](https://github.com/HHS/simpler-grants-gov/issues/9861)?
+## Why [CampusPulseAccess](https://access.campuspulse.app/catalog)/[simplergrants.gov](https://github.com/HHS/simpler-grants-gov/issues/9861)?
 
-For campusPulse, my reasons for contribution have not changed:
+For CampusPulse, my reasons for contribution have not changed:
 1. User turnover: The site is hosted by RIT FOSS club, which is constantly in need of fresh contributors due to graduating students.
 2. Easy accessibility: The site is hosted directly by RIT, and already has a lot of people I am familiar with.
 3. Smaller scale project: The idea of joining a larger scale project, such as Red Hat contributions is daunting, and I would need extra time to learn the infrastructure I'd be working on, as well as the commit guidelines.
